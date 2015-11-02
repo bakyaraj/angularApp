@@ -1,0 +1,31 @@
+{
+  "name": "angularapp",
+  "description": "angular2 demo app",
+  "main": "index.js",
+  "authors": [
+    "Srinivas Kasiriveni"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "angular2",
+    "demo"
+  ],
+  "homepage": "https://github.com/kasiriveni/angularApp",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "~2.1.4"
+  }
+}
